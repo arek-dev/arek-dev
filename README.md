@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arek-dev
+- 👋 Hi, I’m @arek
 
 <!---
 arek-dev/arek-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
